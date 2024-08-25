@@ -11312,16 +11312,16 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Specialized",
-                    Content = "Hop Server",
+                    Name = "Eric Hub",
+                    Content = "Chuyển Server",
                     Image = "rbxassetid://4483345998",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Specialized",
-                    Content = "Hop Server",
+                    Name = "Eric Hub",
+                    Content = "Chuyển Server",
                     Image = "rbxassetid://4483345998",
                     Time = 5
                 })
@@ -11376,7 +11376,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "Specialized",
+    Name = "Eric Hub",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://4483345998",
     Time = 5
